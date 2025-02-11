@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, ASP.NET, Information Technologies.**
 
-- 🤝 This is my Telegram channel [computer](https://t.me/compexe)
+- 🤝 This is my Telegram [channel](https://t.me/compexe)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NilaVosoughzadeh](https://github.com/NilaVosoughzadeh)
 
