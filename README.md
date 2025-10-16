@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nila</h1>
 <h3 align="center">A computer software student from Iran</h3>
 
-<img align="right" alt="Nila" width="200" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
-
 - 🔭 I’m currently working on **my skills**
 
 - 🌱 I’m currently learning **Python, ASP.NET, Information Technologies.**
